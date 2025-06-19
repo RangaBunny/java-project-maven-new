@@ -224,6 +224,16 @@
                     <button class="watchlist-btn">add to watchlist</button>
                 </div>
             </div>
+
+	    <div class="card">
+                <img src="./assets/img/card 4.webp" class="card-img" alt="">
+                <div class="card-body">
+                    <h2 class="name">Virat</h2>
+		    <h6 class="des">King of the Cricket.</h6>
+                    <button class="watchlist-btn">add to watchlist</button>
+                </div>
+            </div>
+
             <div class="card">
                 <img src="./assets/img/card 2.webp" class="card-img" alt="">
                 <div class="card-body">
